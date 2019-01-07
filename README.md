@@ -6,4 +6,4 @@ As a simplifying assumptionn we assume that the player purchases in every round 
 that increase the brew length by 1 each.
 A project to find lower limits on the brew length for the game Quacks of Quedlinburg
 ## Histograms
-![First Round](fig0 "First Round")
+![First Round](fig0.png "First Round")
